@@ -1,0 +1,2 @@
+1、src文件夹中是一些react基础学习 其中 src中使用了 antd-mobile 使用了按需加载，在package中配置了plugin 详情见  https://mobile.ant.design/index-cn
+2、src/reduxStudy 文件中开始学习redux
